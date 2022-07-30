@@ -1,6 +1,4 @@
-### Olá! Sou   👋
+### Olá! Sou Ulisses 👋
 
 - 🔭 Estou em processo de transição de carre.
-- 🌱  Atualmente estou estudando Java | Spring Boot | SQL | HTML | CSS
 
--->
